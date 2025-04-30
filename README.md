@@ -86,6 +86,3 @@ Proyek ini menggunakan lisensi [MIT](LICENSE), yang berarti bebas digunakan, dim
 
 > Dibuat dengan ❤️ untuk pembelajaran dan pengembangan aplikasi berbasis web.
 
----
-
-Kalau kamu mau, aku bisa bantu salin langsung ke file `README.md` dan `.gitignore`, atau bantu atur tampilan GitHub-mu biar lebih profesional. Mau sekalian?
