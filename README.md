@@ -1,82 +1,95 @@
-🎓 PEMWEB_DATA_MAHASISWA  
-A modern web application for student data management built with **React + TypeScript**, powered by **Vite**, and styled using **Tailwind CSS**.
+Baik! Ini versi `README` yang **rapih, mudah dibaca, tidak seperti kode**, dan tetap **estetik** untuk ditampilkan di GitHub maupun sebagai dokumentasi tugas:
 
 ---
 
-✨ Key Features
+# 🎓 PEMWEB_DATA_MAHASISWA
 
-- 🔐 **User Authentication**  
-  Secure login system for accessing the app.
-
-- 📋 **Student Data List**  
-  View a structured list of all student records.
-
-- 📝 **Add/Edit Student Form**  
-  Easily create or modify student data via dynamic forms.
-
-- 📊 **Student Dashboard**  
-  Overview of student-related metrics in one place.
+Aplikasi web untuk mengelola data mahasiswa. Dibangun dengan teknologi modern seperti **React**, **TypeScript**, **Vite**, dan **Tailwind CSS**, agar tampilannya menarik dan performanya cepat.
 
 ---
 
-🧰 Tech Stack
+## ✨ Fitur Utama
 
-| Technology     | Description                                 |
-|----------------|---------------------------------------------|
-| **React**      | Component-based UI library                  |
-| **TypeScript** | Typed superset of JavaScript                |
-| **Vite**       | Lightning-fast frontend build tool          |
-| **Tailwind CSS** | Utility-first CSS framework for styling   |
-| **ESLint**     | Tool for identifying and fixing code issues |
+- 🔐 Login pengguna  
+- 📋 Melihat daftar mahasiswa  
+- 📝 Input & edit data mahasiswa  
+- 📊 Dashboard mahasiswa  
 
 ---
 
-🚀 Getting Started
+## 🧰 Teknologi yang Digunakan
 
-To run this project locally, follow these steps:
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/username/PEMWEB_DATA_MAHASISWA.git
-cd PEMWEB_DATA_MAHASISWA
-
-# 2. Install dependencies
-npm install
-
-# 3. Start the development server
-npm run dev
-
-# 4. Open in your browser
-http://localhost:5173
-```
+| Teknologi     | Keterangan                                      |
+|---------------|--------------------------------------------------|
+| React         | Library JavaScript untuk membangun UI           |
+| TypeScript    | Bahasa JavaScript dengan dukungan tipe statis   |
+| Vite          | Alat build modern yang sangat cepat             |
+| Tailwind CSS  | Framework CSS berbasis utility class            |
+| ESLint        | Alat bantu untuk menjaga kualitas kode          |
 
 ---
 
-📸 Screenshots
+## 🚀 Cara Menjalankan Proyek
 
-> Interface Preview
+1. **Clone repositori**
+   ```
+   git clone https://github.com/username/PEMWEB_DATA_MAHASISWA.git
+   ```
 
-![Screenshot 1](./dist/assets/1.png)
+2. **Masuk ke folder proyek**
+   ```
+   cd PEMWEB_DATA_MAHASISWA
+   ```
+
+3. **Install semua dependensi**
+   ```
+   npm install
+   ```
+
+4. **Jalankan server lokal**
+   ```
+   npm run dev
+   ```
+
+5. **Akses aplikasi**
+   Buka browser dan kunjungi:  
+   `http://localhost:5173`
 
 ---
 
-![Screenshot 2](./dist/assets/2.png)
+## 📸 Tampilan Aplikasi
+
+Berikut adalah beberapa tampilan antarmuka dari aplikasi ini:
+
+<p align="center">
+  <img src="./dist/assets/1.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="./dist/assets/2.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="./dist/assets/3.png" width="600" />
+</p>
 
 ---
 
-![Screenshot 3](./dist/assets/3.png)
+## 🤝 Kontribusi
+
+Kontribusi sangat terbuka!  
+Silakan **fork** repositori ini, buat **branch baru**, lalu kirimkan **pull request**.
 
 ---
 
-🤝 Contributing
+## 📄 Lisensi
 
-Contributions are welcome!  
-Feel free to fork this repository, create a new branch, and submit a pull request.
+Proyek ini menggunakan lisensi [MIT](LICENSE), yang berarti bebas digunakan, dimodifikasi, dan dibagikan.
+
+---
+
+> Dibuat dengan ❤️ untuk pembelajaran dan pengembangan aplikasi berbasis web.
 
 ---
 
-📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
+Kalau kamu mau, aku bisa bantu salin langsung ke file `README.md` dan `.gitignore`, atau bantu atur tampilan GitHub-mu biar lebih profesional. Mau sekalian?
