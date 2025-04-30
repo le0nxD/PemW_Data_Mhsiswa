@@ -54,5 +54,10 @@ http://localhost:5173
 
 Kontribusi sangat dipersilakan!  
 Fork, buat branch baru, dan ajukan pull request.
+📄 Lisensi
 
+Distribusi proyek ini menggunakan lisensi [MIT](LICENSE).
+
+---
+```
 ---
