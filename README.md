@@ -1,7 +1,3 @@
-Baik! Ini versi `README` yang **rapih, mudah dibaca, tidak seperti kode**, dan tetap **estetik** untuk ditampilkan di GitHub maupun sebagai dokumentasi tugas:
-
----
-
 # 🎓 PEMWEB_DATA_MAHASISWA
 
 Aplikasi web untuk mengelola data mahasiswa. Dibangun dengan teknologi modern seperti **React**, **TypeScript**, **Vite**, dan **Tailwind CSS**, agar tampilannya menarik dan performanya cepat.
