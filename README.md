@@ -44,9 +44,15 @@ http://localhost:5173
 
  📸 Screenshot
 
-> _(Tambahkan screenshot tampilan aplikasi Anda di sini)_
+> _(Screenshot Website)_
 
 ![Tampilan Gambar](./dist/assets/1.png)
+
+---
+![Tampilan Gambar](./dist/assets/2.png)
+
+---
+![Tampilan Gambar](./dist/assets/3.png)
 
 ---
 
