@@ -1,87 +1,86 @@
+---
+
 # 🎓 PEMW_DATA_MHSISWA
 
-A web application to manage student data. Built with modern technologies such as **React**, **TypeScript**, **Vite**, and **Tailwind CSS** for a visually appealing interface and fast performance.
+A modern web app to manage student data — built with cutting-edge technologies like **React**, **TypeScript**, **Vite**, and **Tailwind CSS** for performance, clarity, and elegance.
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-- 🔐 User login  
-- 📋 View student list  
-- 📝 Input & edit student data  
-- 📊 Student dashboard  
-
----
-
-## 🧰 Technologies Used
-
-| Technology    | Description                                   |
-|---------------|-----------------------------------------------|
-| React         | JavaScript library for building user interfaces |
-| TypeScript    | JavaScript with static typing support         |
-| Vite          | Modern, super-fast build tool                 |
-| Tailwind CSS  | Utility-first CSS framework                   |
-| ESLint        | Tool to maintain code quality                 |
+- 🔐 **User Authentication** — Secure login system  
+- 📋 **Student Directory** — View a full list of students  
+- 📝 **Data Management** — Add, edit, and update student information  
+- 📊 **Dashboard Overview** — Visual representation of student stats  
 
 ---
 
-## 🚀 How to Run the Project
+## 🧰 Tech Stack
 
-1. **Clone the repository**
-   ```
-   git clone https://github.com/username/PEMWEB_DATA_MAHASISWA.git
-   ```
-
-2. **Navigate to the project folder**
-   ```
-   cd PEMWEB_DATA_MAHASISWA
-   ```
-
-3. **Install all dependencies**
-   ```
-   npm install
-   ```
-
-4. **Run the local server**
-   ```
-   npm run dev
-   ```
-
-5. **Access the app**
-   Open your browser and visit:  
-   `http://localhost:5173`
+| 🛠️ Technology   | 🔍 Description                              |
+|-----------------|----------------------------------------------|
+| **React**        | Frontend library for dynamic UIs            |
+| **TypeScript**   | Adds static typing to JavaScript            |
+| **Vite**         | Blazing-fast development & build tool       |
+| **Tailwind CSS** | Utility-first styling for rapid UI building |
+| **ESLint**       | Linter for maintaining clean, error-free code |
 
 ---
 
-## 📸 Application Interface
+## 🚀 Getting Started
 
-Here are some screenshots of the application interface:
+### 📥 1. Clone the Repository
+```bash
+git clone https://github.com/username/PEMWEB_DATA_MAHASISWA.git
+cd PEMWEB_DATA_MAHASISWA
+```
+
+### 📦 2. Install Dependencies
+```bash
+npm install
+```
+
+### 🧪 3. Run the Development Server
+```bash
+npm run dev
+```
+
+### 🌐 4. Visit the App
+Open your browser and go to:  
+[http://localhost:5173](http://localhost:5173)
+
+---
+
+## 🖼️ Application Interface
+
+> 📸 Below are some preview screenshots of the app in action:
 
 <p align="center">
-  <img src="./dist/assets/1.png" width="600" />
+  <img src="./dist/assets/1.png" width="600" alt="Screenshot 1" />
 </p>
-
 <p align="center">
-  <img src="./dist/assets/2.png" width="600" />
+  <img src="./dist/assets/2.png" width="600" alt="Screenshot 2" />
 </p>
-
 <p align="center">
-  <img src="./dist/assets/3.png" width="600" />
+  <img src="./dist/assets/3.png" width="600" alt="Screenshot 3" />
 </p>
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome!  
-Please **fork** this repository, create a **new branch**, and submit a **pull request**.
+Have an idea or improvement? Contributions are welcome!  
+Just **fork**, **create a branch**, and submit a **pull request**.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT](LICENSE) license, which means it's free to use, modify, and share.
+This project is licensed under the [MIT License](LICENSE).  
+Free to use, modify, and distribute.
 
 ---
 
-> Made with ❤️ for learning and web application development.
+> Crafted with ❤️ as part of a learning journey in web development.
+
+---
