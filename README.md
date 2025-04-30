@@ -81,6 +81,9 @@ Free to use, modify, and distribute.
 
 ---
 
-> Crafted with ❤️ as part of a learning journey in web development.
+## 👨‍💻 Author
+
+Crafted with ❤️ by [Naufal Darlian](https://github.com/le0nxD)  
+Contributions and feedback are always welcome!
 
 ---
