@@ -1,4 +1,4 @@
-# 🎓 PEMWEB_DATA_MAHASISWA
+# 🎓 PEMW_DATA_MHSISWA
 
 A web application to manage student data. Built with modern technologies such as **React**, **TypeScript**, **Vite**, and **Tailwind CSS** for a visually appealing interface and fast performance.
 
