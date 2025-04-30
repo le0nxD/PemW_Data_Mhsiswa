@@ -44,7 +44,7 @@ http://localhost:5173
 
  📸 Screenshot
 
-> _(Screenshot Website)_
+> _(Tampilan Website)_
 
 ![Tampilan Gambar](./dist/assets/1.png)
 
